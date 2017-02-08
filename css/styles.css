@@ -1,0 +1,36 @@
+.big {
+  color: gold;
+  font-family: cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  background-color: gold;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+}
+
+.holder {
+  background-color: silver;
+  padding: 10px;
+  border: solid black 2px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.bigger {
+  color: black;
+  font-family: fantasy;
+  font-size: 25px;
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
